@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "name": "Apples Kg",
+      "price": 1.49,
+      "category": "Produce",
+      "type": "Fruits"
+    },
+    {
+      "name": "Carrots Kg",
+      "category": "Produce",
+      "type": "Vegetables",
+      "price": "0.69",
+      "id": 22
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy",
+      "type": "Dairy",
+      "price": "1.99",
+      "id": 23
+    },
+    {
+      "name": "Oranges 0.5 KG",
+      "category": "Produce",
+      "type": "Fruits",
+      "price": "1",
+      "id": 24
+    },
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "type": "Dairy",
+      "price": "3",
+      "id": 26
+    },
+    {
+      "name": "Letuce",
+      "category": "Produce",
+      "type": "Vegetable",
+      "price": "2",
+      "id": 27
+    },
+    {
+      "name": "Beef",
+      "category": "Meat",
+      "type": "Beef",
+      "price": "5",
+      "id": 28
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "username": "kamadas",
+      "email": "kamadas@kamadas.com",
+      "role": "admin",
+      "password": "kamadas"
+    },
+    {
+      "username": "figo",
+      "email": "figo@flyair.com",
+      "password": "figo",
+      "role": "customer",
+      "id": 4
+    },
+    {
+      "username": "cr7",
+      "email": "cr7@manu.co.uk",
+      "password": "cr7",
+      "role": "customer",
+      "id": 5
+    },
+    {
+      "username": "Baia",
+      "email": "Baia@fcp.pt",
+      "password": "99",
+      "role": "admin",
+      "id": 6
+    }
+  ]
+}
